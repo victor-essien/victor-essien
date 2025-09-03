@@ -7,7 +7,7 @@
 
 I am a passionate software developer with a keen interest in open-source projects, web development. I enjoy learning new technologies and applying them to solve real-world problems.
 
-- 🌱 I’m currently learning **Typescript**
+
 - 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: [viktoressien1@gmail.com](mailto:viktoressien1@gmail.com)
 
