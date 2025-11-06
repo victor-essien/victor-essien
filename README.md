@@ -15,12 +15,14 @@ I am a passionate software developer with a keen interest in open-source project
 ## Skills
 
 - **Languages:** Html, Css, JavaScript, Typescript
-- **Frameworks/Libraries:** React, Node.js, TailwindCss
+- **Frameworks/Libraries:** React, Node.js, Expressjs, TailwindCss
 - **Tools:** Git
-- **Databases:** MongoDb
+- **Databases:** MongoDb, PostgreSQL
 
 ## Projects
 
+### [Project 1: Loca8t](https://github.com/victor-essien/Loca8t)
+Loca8t is a location-based social app that lets users save, share, and discover interesting places ("drops") on a map. Users can add details, images, and tags to each drop, connect with friends, share locations, and earn badges for activity.
 ### [Project 1: TaskMate](https://github.com/victor-essien/TaskMate)
 A web application built with React, Typescript, firebase that allows users to create and manage their tasks.
 
