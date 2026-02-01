@@ -87,9 +87,8 @@ Loca8t is a map-driven social application that enables users to discover, save, 
 
 **What I worked on:**
 - Designed backend architecture for location-based content
-- Implemented geospatial queries and discovery logic
-- Built social features and engagement tracking
-- Focused on performance and scalable data modeling
+- Implemented image/file uploading with Cloudinary
+- Implemented JWT/OAuth authentication
 
 **Tech:** Node.js, Express.js, MongoDB, Map APIs
 
