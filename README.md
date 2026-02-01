@@ -5,29 +5,95 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in open-source projects, web development. I enjoy learning new technologies and applying them to solve real-world problems.
+💻 Software Developer focused on backend systems, APIs, and AI integrations  
+🚀 Currently building **Studyrok** — an AI-powered learning platform  
+⚙️ I enjoy designing scalable services, clean architectures, and reliable systems  
+📚 Big on learning in public, consistency, and shipping real products  
+
+🛠️ Tech interests:
+- Backend development & system design  
+- API design, integrations, and scalability  
+
+🌱 Always learning. Always building.
 
 
-- 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: [viktoressien1@gmail.com](mailto:viktoressien1@gmail.com)
 
 
 ## Skills
 
-- **Languages:** Html, Css, JavaScript, Typescript
-- **Frameworks/Libraries:** React, Node.js, Expressjs, TailwindCss
-- **Tools:** Git
-- **Databases:** MongoDb, PostgreSQL
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Backend:** Node.js, Express.js, RESTful API design  
+- **Frontend:** React, Tailwind CSS  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools & DevOps:** Git, GitHub, Environment configuration, Docker  
+- **Concepts:** Backend architecture, API integration, AI service orchestration
+
 
 ## Projects
 
-### [Project 1: Loca8t](https://github.com/victor-essien/Loca8t)
-Loca8t is a location-based social app that lets users save, share, and discover interesting places ("drops") on a map. Users can add details, images, and tags to each drop, connect with friends, share locations, and earn badges for activity.
-### [Project 1: TaskMate](https://github.com/victor-essien/TaskMate)
-A web application built with React, Typescript, firebase that allows users to create and manage their tasks.
+### 📚 Studyrok
+**AI-powered study companion web application**
 
-### [Project 2: RecipScape](https://github.com/victor-essien/RecipScape)
-A social media web application built with React, NodeJs, ExpressJs, MongoDB that allows users to post and share recipes
+Studyrok is a study companion platform designed to help students learn more effectively using structured content and AI-assisted tools.
+
+**Key features:**
+- Study boards for organizing learning materials
+- AI-powered content generation (summaries, quizzes, flashcards)
+- File upload and content processing workflows
+- Progress tracking and personalized study experience
+
+**What I worked on:**
+- Designed and implemented backend APIs for study boards, materials, and AI workflows
+- Integrated multiple AI providers with fallback handling and retries
+- Built orchestration logic for content generation and processing
+- Focused on scalable backend architecture, caching, and error handling
+
+**Tech:** Node.js, TypeScript, Express.js, PostgreSQL, AI APIs
+
+---
+
+### 🏠 RoomieFind
+**Personality-based roommate matching platform**
+
+RoomieFind is a web platform that helps users find compatible roommates based on personality traits, preferences, and lifestyle factors.
+
+**Key features:**
+- User profiles with personality and lifestyle questionnaires
+- Matching logic to suggest compatible roommates
+- Search and filtering based on preferences
+- Secure user authentication and profile management
+
+**What I worked on:**
+- Designed the data models for user profiles and personality traits
+- Implemented matching algorithms and compatibility scoring
+- Built backend APIs for user management and match retrieval
+- Focused on data consistency, validation, and system scalability
+
+**Tech:** Node.js, TypeScript, Express.js, MongoDB, REST APIs
+
+---
+
+### 🌍 [Loca8t](https://github.com/victor-essien/Loca8t)
+**Location-based social discovery platform**
+
+Loca8t is a map-driven social application that enables users to discover, save, and share interesting places as location “drops”.
+
+**Key features:**
+- Create location drops with descriptions, images, and tags
+- Map-based discovery of nearby places
+- Social interactions through shared locations
+- Gamification via badges and activity tracking
+
+**What I worked on:**
+- Designed backend architecture for location-based content
+- Implemented geospatial queries and discovery logic
+- Built social features and engagement tracking
+- Focused on performance and scalable data modeling
+
+**Tech:** Node.js, Express.js, MongoDB, Map APIs
+
+---
 
 ## Connect with Me
 
