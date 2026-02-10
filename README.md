@@ -6,7 +6,7 @@
 ## About Me
 
 💻 Software Developer focused on backend systems, APIs, and AI integrations  
-🚀 Currently building **Studyrok** — an AI-powered learning platform  
+🚀 Currently building **Studyrok** an AI-powered study companion web app 
 ⚙️ I enjoy designing scalable services, clean architectures, and reliable systems  
 📚 Big on learning in public, consistency, and shipping real products  
 
@@ -26,13 +26,14 @@
 - **Backend:** Node.js, Express.js, RESTful API design  
 - **Frontend:** React, Tailwind CSS  
 - **Databases:** MongoDB, PostgreSQL  
-- **Tools & DevOps:** Git, GitHub, Environment configuration, Docker  
+- **Tools & DevOps:** Git, GitHub, Environment configuration, Docker
+- **Caching:** BullMQ, Redis
 - **Concepts:** Backend architecture, API integration, AI service orchestration
 
 
 ## Projects
 
-### 📚 Studyrok
+### 📚 [Studyrok](https://github.com/victor-essien/studyrok-backend)
 **AI-powered study companion web application**
 
 Studyrok is a study companion platform designed to help students learn more effectively using structured content and AI-assisted tools.
@@ -53,7 +54,7 @@ Studyrok is a study companion platform designed to help students learn more effe
 
 ---
 
-### 🏠 RoomieFind
+### 🏠 [RoomieFind](https://github.com/victor-essien/RoomieFind)
 **Personality-based roommate matching platform**
 
 RoomieFind is a web platform that helps users find compatible roommates based on personality traits, preferences, and lifestyle factors.
