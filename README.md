@@ -28,6 +28,7 @@
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & DevOps:** Git, GitHub, Environment configuration, Docker
 - **Caching:** BullMQ, Redis
+- **Documentation:** OpenAPI
 - **Concepts:** Backend architecture, API integration, AI service orchestration
 
 
