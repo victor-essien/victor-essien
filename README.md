@@ -20,16 +20,13 @@
 - 📫 How to reach me: [viktoressien1@gmail.com](mailto:viktoressien1@gmail.com)
 
 
-## Skills
+## 🛠️ Skills
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript  
-- **Backend:** Node.js, Express.js, RESTful API design  
-- **Frontend:** React, Tailwind CSS  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools & DevOps:** Git, GitHub, Environment configuration, Docker
-- **Caching:** BullMQ, Redis
-- **Documentation:** OpenAPI
-- **Concepts:** Backend architecture, API integration, AI service orchestration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,tailwind,mongodb,postgres,redis,docker,git,github&perline=7" />
+</p>
+
+**Additional Expertise:** RESTful APIs • BullMQ • OpenAPI • Backend Architecture • API Integration • AI Service Orchestration
 
 
 ## Projects
